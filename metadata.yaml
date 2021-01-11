@@ -1,0 +1,29 @@
+_repo: Some-do-not_64248
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ford, Ford Madox
+    aliases:
+    - Hueffer, Ford Hermann
+    - Hueffer, Ford H. Madox
+    - Chaucer, Daniel
+    - Huffer, Ford
+    - Hueffer, Ford Madox
+    birthdate: 1873
+    deathdate: 1939
+    gutenberg_agent_id: '1016'
+    url: http://www.gutenberg.org/2009/agents/1016
+    wikipedia: http://en.wikipedia.org/wiki/Ford_Madox_Ford
+description: ''
+gutenberg_issued: '2021-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64248'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Some do not...
+url: http://www.gutenberg.org/ebooks/64248
