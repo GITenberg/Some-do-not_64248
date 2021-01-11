@@ -1,5 +1,8 @@
 _repo: Some-do-not_64248
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64248-h/images/some_cover.jpg
 creator:
   author:
     agent_name: Ford, Ford Madox
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1016
     wikipedia: http://en.wikipedia.org/wiki/Ford_Madox_Ford
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64248#Some-do-not
 gutenberg_issued: '2021-01-10'
 gutenberg_type: Text
 identifiers:
